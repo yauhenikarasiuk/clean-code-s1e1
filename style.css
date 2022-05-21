@@ -152,7 +152,7 @@ button {
 }
 
 /* Completed */
-#completed-tasks .task-list-label {
+.completed-tasks-container .task-list-label {
   text-decoration: line-through; 
   color: #888;
 }
